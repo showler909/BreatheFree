@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Stress App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="go_back">\@string/go_back</string>
+    <string name="breathe_assist">\@string/breathe_assist</string>
+    <string name="breathe_easy">\@string/breathe_easy</string>
+    <string name="imageHeart">TODO</string>
+    <string name="textHeartRate">\@string/textHeartRate</string>
+    <string name="headerBreatheFree">\@string/headerBreatheFree</string>
+    <string name="buttonBreatheAssist">\@string/buttonBreatheAssist</string>
+    <string name="headerBreatheFree2">\@string/headerBreatheFree2</string>
+    <string name="buttonGoBack">\@string/buttonGoBack</string>
+    <string name="textHeartRateReading">\@string/textHeartRateReading</string>
+    <string name="email_address">Email address</string>
+    <string name="title_activity_home2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip">SKIP</string>
+
+
+    <!--Other string resources also defined in this file… -->
+    <string name="feedbacktype1">"1 - Very relaxed"</string>
+    <string name="feedbacktype2">"2"</string>
+    <string name="feedbacktype3">"3"</string>
+    <string name="feedbacktype4">"4"</string>
+    <string name="feedbacktype5">"5"</string>
+    <string name="feedbacktype6">"6"</string>
+    <string name="feedbacktype7">"7"</string>
+    <string name="feedbacktype8">"8"</string>
+    <string name="feedbacktype9">"9"</string>
+    <string name="feedbacktype10">"10 - Very stressed"</string>
+    <string name="feedbacktype">\@string/feedbacktype</string>
+    <string name="feedbackbody">\@string/feedbackbody</string>
+    <string name="feedbackbutton">\@string/feedbackbutton</string>
+
+    <string name="appTitle">Breathe Free</string>
+</resources>

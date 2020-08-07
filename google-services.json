@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386272633210",
+    "firebase_url": "https://breathe-easy-60ea2.firebaseio.com",
+    "project_id": "breathe-easy-60ea2",
+    "storage_bucket": "breathe-easy-60ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386272633210:android:1a4aa5815cae32a7aef6c3",
+        "android_client_info": {
+          "package_name": "com.robert_showler.breatheeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386272633210-0q2i4893jl99l8b6g115g72sref71jdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robert_showler.breatheeasy",
+            "certificate_hash": "e7988a6f0e4635283c5b4c9548cdf4b7ff758c5a"
+          }
+        },
+        {
+          "client_id": "386272633210-qg0bbkm28b97tjmkge57dnre1766gq23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SqPo0CAfm6ekRYnpWmVQysKtnjG_-DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386272633210-98qncl4j45738th3ld5op5gfvcsvhe73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

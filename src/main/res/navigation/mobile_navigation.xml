@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@layout/activity_intro"
+    tools:ignore="UnusedNavigation">
+
+    <activity
+        android:id="@+id/commentFragment"
+        tools:layout="@layout/fragment_comment" />
+    <activity
+        android:id="@+id/mainActivity"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/registerActivity"
+        tools:layout="@layout/activity_register" />
+    <activity
+        android:id="@+id/introActivity"
+        tools:layout="@layout/activity_intro" />
+    <activity
+        android:id="@+id/loginActivity"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/breatheActivity"
+        tools:layout="@layout/fragment_breathe" />
+    <fragment
+        android:id="@+id/historyFragment"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/homeFragment"
+        tools:layout="@layout/fragment_home" />
+
+</navigation>
